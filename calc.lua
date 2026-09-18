@@ -19,7 +19,7 @@ local C_WHITE = 0xFFFFFF
 
 -- Display
 local DISP_X, DISP_Y = 1, 2
-local DISP_W, DISP_H = 25, 3
+local DISP_W, DISP_H = 10, 3
 local HIST_Y = 1
 
 -- Buttons
